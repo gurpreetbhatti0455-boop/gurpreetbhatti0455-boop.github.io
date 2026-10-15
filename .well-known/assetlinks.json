@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jcl.cricketscorer",
+      "sha256_cert_fingerprints": [
+        "61:D6:EA:38:E0:D2:4E:0D:63:A9:33:2F:E1:5F:8C:0F:DE:98:40:0F:C7:F8:F6:E0:A8:08:B1:9A:EB:C5:EE:43"
+      ]
+    }
+  }
+]
